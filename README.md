@@ -1,7 +1,5 @@
 - 👋 Hi, I’m JR!
-- 👀 I’m interested in creating open source educational material and frameworks for people who want to think about, talk about, and model open dynamic systems. The focus is to get folks from zero to just-enough-to-get-started-with-the-current-awesome-things-already-out-there.
-- 🌱 I’m currently learning active inference, category theory, and julia lang.
+- 👀 I’m interested in creating open source educational material and frameworks for people who want to think and talk about open dynamic systems in different ways. The focus is to get folks from zero to just-enough-to-get-started-with-the-current-awesome-things-already-out-there. I do like the "high adventure" approach: jump into "this is absolutely incomprehensible" and proceed to mystery-solve and explore until things become not not understandable, in the hopes that one fine day, comprehension arrives.
+- 🌱 I’m currently learning active inference and category theory, and go back and forth between haskell and julia lang.
 - 💞️ I’m learning the ropes of github so I can start collaborating in future.
 - 😄 Pronouns: they/them, she/her
-- ⚡ Fun fact: When I meet topics that go way over my head, I turn into an elven paladin.
-- Support me on Patreon: https://www.patreon.com/JRLearnstomath
