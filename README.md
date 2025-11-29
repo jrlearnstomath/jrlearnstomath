@@ -1,5 +1,4 @@
 - 👋 Hi, I’m JR!
-- 👀 I’m interested in creating open source educational material and frameworks for people who want to think and talk about open dynamic systems in different ways. The focus is to get folks from zero to just-enough-to-get-started-with-the-current-awesome-things-already-out-there. I do like the "high adventure" approach: jump into "this is absolutely incomprehensible" and proceed to mystery-solve and explore until things become not not understandable, in the hopes that one fine day, comprehension arrives.
-- 🌱 I’m currently learning active inference and category theory, and go back and forth between haskell and julia lang.
-- 💞️ I’m learning the ropes of github so I can start collaborating in future.
+- 👀 I am a second-year undergrad studying math part-time while working. I'm learning category theory on the side from books, videos, and an excellent tutor. I am using the active inference framework consciously through this learning process.
+- 🌱 I’m learning haskell and how to be on github.
 - 😄 Pronouns: they/them, she/her
