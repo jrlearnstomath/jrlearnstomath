@@ -1,4 +1,4 @@
 - 👋 Hi, I’m JR!
 - 👀 I am a second-year undergrad studying math part-time while working. I'm learning category theory on the side from books, videos, and an excellent tutor. I am using the active inference framework consciously through this learning process.
-- 🌱 I’m learning haskell and how to be on github.
+- 🌱 I’m learning haskell and github.
 - 😄 Pronouns: they/them, she/her
